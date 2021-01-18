@@ -1,10 +1,9 @@
 # Housing_Market_Analysis___Data_Visualization_Project
 ## Project Description
 This project contains four parts:
-- We firstly showed the overall trend of the listed house price on Zillow
-- Then we used healthiness score to evaluate the housing market
-- Next, we combined the house price and personal income to evaluate the affordability in each state
-- Finally,  we dived into region and county level data to extract more insights on housing affordability
+- What is the overall trend of the listed house price on Zillow?
+- What is the healthiness score of the current housing market? Which place is best to invest?
+- What is the housing affordability of each state/region? Is it more afforadable to live in rural region compared to downtown?
 
 ## Conclusions
 1. Overall Housing Market Trend
