@@ -20,5 +20,9 @@ This project contains four parts:
   - The housing affordability situation is getting worse. The growth rate of housing price is faster than its of income level in most of the states. Hawaii can be the next worst housing affordability state.
   - At region level, we surprisingly found affordability varies a lot with region and rural region is more likely to happen housing affordability crisis. 
 
-## Some Screenshots
-![GitHub Logo](/images/logo.png)
+## Project Screenshots
+Since the project file is too large, I would only put screenshots here. But if you are interesed in learning more details about this project, I could share with you the whole interactive Tableau file.
+![Screenshot1](https://github.com/yuanyuanqu/Housing_Market_Analysis___Data_Visualization_Project/blob/main/Screenshot1.png)
+![Screenshot2](https://github.com/yuanyuanqu/Housing_Market_Analysis___Data_Visualization_Project/blob/main/Screenshot2.png)
+![Screenshot3](https://github.com/yuanyuanqu/Housing_Market_Analysis___Data_Visualization_Project/blob/main/Screenshot3.png)
+![Screenshot4](https://github.com/yuanyuanqu/Housing_Market_Analysis___Data_Visualization_Project/blob/main/Screenshot4.png)
