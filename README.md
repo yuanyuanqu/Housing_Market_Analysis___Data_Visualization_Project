@@ -19,3 +19,6 @@ This project contains four parts:
 3. Housing Affordability Trend
   - The housing affordability situation is getting worse. The growth rate of housing price is faster than its of income level in most of the states. Hawaii can be the next worst housing affordability state.
   - At region level, we surprisingly found affordability varies a lot with region and rural region is more likely to happen housing affordability crisis. 
+
+## Some Screenshots
+![GitHub Logo](/images/logo.png)
